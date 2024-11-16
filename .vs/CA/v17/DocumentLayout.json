@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE4A838-B748-4860-BC4B-BB55926A251D}|CA_UnitTest\\CA_UnitTest.csproj|e:\\000_mis libros\\programaci\u00F3n_c#_net\\nuevo libro 2024\\c\u00F3digo\\clean architecture_unit test\\ca_unittest\\unittests\\vendedorcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE4A838-B748-4860-BC4B-BB55926A251D}|CA_UnitTest\\CA_UnitTest.csproj|solutionrelative:ca_unittest\\unittests\\vendedorcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE013043-AD41-45E3-A8CA-87A95682E475}|CA\\CA.csproj|e:\\000_mis libros\\programaci\u00F3n_c#_net\\nuevo libro 2024\\c\u00F3digo\\clean architecture_unit test\\ca\\infrastructure\\data\\registrodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE013043-AD41-45E3-A8CA-87A95682E475}|CA\\CA.csproj|solutionrelative:ca\\infrastructure\\data\\registrodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE013043-AD41-45E3-A8CA-87A95682E475}|CA\\CA.csproj|e:\\000_mis libros\\programaci\u00F3n_c#_net\\nuevo libro 2024\\c\u00F3digo\\clean architecture_unit test\\ca\\infrastructure\\data\\vendedordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE013043-AD41-45E3-A8CA-87A95682E475}|CA\\CA.csproj|solutionrelative:ca\\infrastructure\\data\\vendedordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE4A838-B748-4860-BC4B-BB55926A251D}|CA_UnitTest\\CA_UnitTest.csproj|e:\\000_mis libros\\programaci\u00F3n_c#_net\\nuevo libro 2024\\c\u00F3digo\\clean architecture_unit test\\ca_unittest\\unittests\\vendedortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE4A838-B748-4860-BC4B-BB55926A251D}|CA_UnitTest\\CA_UnitTest.csproj|solutionrelative:ca_unittest\\unittests\\vendedortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE013043-AD41-45E3-A8CA-87A95682E475}|CA\\CA.csproj|e:\\000_mis libros\\programaci\u00F3n_c#_net\\nuevo libro 2024\\c\u00F3digo\\clean architecture_unit test\\ca\\webapi\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE013043-AD41-45E3-A8CA-87A95682E475}|CA\\CA.csproj|solutionrelative:ca\\webapi\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE013043-AD41-45E3-A8CA-87A95682E475}|CA\\CA.csproj|e:\\000_mis libros\\programaci\u00F3n_c#_net\\nuevo libro 2024\\c\u00F3digo\\clean architecture_unit test\\ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE013043-AD41-45E3-A8CA-87A95682E475}|CA\\CA.csproj|solutionrelative:ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroData.cs",
+              "DocumentMoniker": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA\\Infrastructure\\Data\\RegistroData.cs",
+              "RelativeDocumentMoniker": "CA\\Infrastructure\\Data\\RegistroData.cs",
+              "ToolTip": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA\\Infrastructure\\Data\\RegistroData.cs",
+              "RelativeToolTip": "CA\\Infrastructure\\Data\\RegistroData.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:52:51.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendedorData.cs",
+              "DocumentMoniker": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA\\Infrastructure\\Data\\VendedorData.cs",
+              "RelativeDocumentMoniker": "CA\\Infrastructure\\Data\\VendedorData.cs",
+              "ToolTip": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA\\Infrastructure\\Data\\VendedorData.cs",
+              "RelativeToolTip": "CA\\Infrastructure\\Data\\VendedorData.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:46:15.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA\\Program.cs",
+              "RelativeDocumentMoniker": "CA\\Program.cs",
+              "ToolTip": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA\\Program.cs",
+              "RelativeToolTip": "CA\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:19:54.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA\\WebAPI\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "CA\\WebAPI\\Controllers\\VendedorController.cs",
+              "ToolTip": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA\\WebAPI\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "CA\\WebAPI\\Controllers\\VendedorController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:47:48.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendedorTest.cs",
+              "DocumentMoniker": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA_UnitTest\\UnitTests\\VendedorTest.cs",
+              "RelativeDocumentMoniker": "CA_UnitTest\\UnitTests\\VendedorTest.cs",
+              "ToolTip": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA_UnitTest\\UnitTests\\VendedorTest.cs",
+              "RelativeToolTip": "CA_UnitTest\\UnitTests\\VendedorTest.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:42:41.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendedorControllerTest.cs",
+              "DocumentMoniker": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA_UnitTest\\UnitTests\\VendedorControllerTest.cs",
+              "RelativeDocumentMoniker": "CA_UnitTest\\UnitTests\\VendedorControllerTest.cs",
+              "ToolTip": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Nuevo Libro 2024\\C\u00F3digo\\Clean Architecture_Unit Test\\CA_UnitTest\\UnitTests\\VendedorControllerTest.cs",
+              "RelativeToolTip": "CA_UnitTest\\UnitTests\\VendedorControllerTest.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:31.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 842,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
